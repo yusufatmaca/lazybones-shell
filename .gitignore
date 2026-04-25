@@ -1,0 +1,5 @@
+build/
+lazybones-shell
+*.o
+*.d
+a.out
